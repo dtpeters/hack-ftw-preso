@@ -46,7 +46,9 @@
 <ul>
   <li><a href="https://github.com/bminor/binutils-gdb/blob/master/gdb/guile/lib/gdb/iterator.scm#L25">gdb guile List Iterator definition</a></li>
   <li><a href="https://github.com/bminor/binutils-gdb/blob/master/gdb/guile/lib/gdb.scm">gdb.scm</a></li>
-
+  <li><a href="https://github.com/bminor/binutils-gdb/blob/master/gdb/guile/scm-disasm.c">scm-disasm.c</a></li>
+  <li><a href="https://github.com/bminor/binutils-gdb/blob/master/gdb/guile/guile.c">guile.c</a></li>
+  <li><a href="
 
 </ul>
 
